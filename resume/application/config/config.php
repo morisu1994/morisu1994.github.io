@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // CHANGE THIS URL TO POINT AT YOURS - It wont work if left untouched.
-$config['base_url'] = 'http://localhost/Resume-Codeigniter/';
+$config['base_url'] = 'https://morisu1994.github.io/resume/';
 
 /*
 |--------------------------------------------------------------------------
